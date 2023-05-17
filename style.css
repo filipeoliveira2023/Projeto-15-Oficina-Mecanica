@@ -1,0 +1,70 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+
+.Primeira {
+
+    font-weight: 200px;
+    font-size: 30px;
+    word-spacing: 25px;
+    padding: 40px;
+    margin-top: 25px;
+    margin-right: 30px;
+    margin-left: 70px;
+    color: blueviolet;
+    cursor: pointer;
+
+}
+
+
+.botao {
+
+    opacity: .8;
+    background-color: rgb(198, 151, 241);
+    color: rgb(19, 17, 17);
+    cursor: pointer;
+    font-weight: 40px;
+    font-size: 30px;
+    border: none;
+    border-radius: 100px;
+    border-left: 50px;
+
+
+}
+
+
+.Segunda {
+
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: 30px;
+    color: rgb(16, 16, 17);
+
+
+
+}
+
+.paragrafo {
+
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 30px;
+    color: rgb(240, 116, 14);
+}
+
+
+.imagem {
+
+
+    float: right 50%;
+
+
+}
